@@ -93,4 +93,4 @@ Hats off the my team mates:
 Hope u like it.
 Team [Dc1ph3R](https://ctftime.org/team/69272).
 
-The full script to the crypto part:
+The full script to the crypto part: [darkcrypto.py](https://github.com/Himanshukr000/Security-Fest-2019/blob/master/darkcrypto.py)
