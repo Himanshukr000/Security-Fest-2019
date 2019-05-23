@@ -16,6 +16,7 @@ I used foremost to extract the data. Got a png and a GIF.
 ![hydra2](img/hydra3.png)
 
 So I started analysing the GIF first. Looked for more embedded files in the GIF. Got a long list of files inside such a small file.
+
 ![hydra3](./img/hydra4.png)
 
 With Binwalk I extracted the files indside the GIF. But got nothing. Then I moved to PNG which looked pretty fishy . 
