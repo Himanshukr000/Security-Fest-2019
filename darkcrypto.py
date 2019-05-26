@@ -89,7 +89,7 @@ class TestEncryption(unittest.TestCase):
     def test_decryption(self):
 
         
-        with open("words.txt", errors='replace') as f:
+        with open("rockyou.txt", errors='replace') as f:
             r = f.readlines()
             p_list = [i.strip() for i in r]
         for l in p_list:
